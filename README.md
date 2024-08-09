@@ -1,4 +1,4 @@
-### Hi 👋, I'm Esra Volkan
+### 👋 Hi, I'm Esra Volkan
 
 I'm a passionate data scientist with a strong focus on data analysis, machine learning, and data visualization. 
 
